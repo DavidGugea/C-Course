@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590090620 source:g:\david\programming\courses on youtube\c-course\freecodecamp_org\memoryaddresses\main.c
+	<stdio.h>
+	<stdlib.h>
+
